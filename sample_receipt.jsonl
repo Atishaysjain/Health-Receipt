@@ -1,0 +1,8 @@
+{"userId":"1ab","orderId":"100", "name":"Apple", "healthScore":99, "calories":300, "servingSize":"1 apple"}
+{"userId":"1ab","orderId":"100", "name":"Banana", "healthScore":80, "calories": 200, "servingSize":"1 banana"}
+{"userId":"1ab","orderId":"232", "name":"Apple", "healthScore":30, "calories":500, "servingSize":"1 bag"}
+{"userId":"1ab","orderId":"232", "name":"Banana", "healthScore":80, "calories": 200, "servingSize":"1 banana"}
+{"userId":"3xy","orderId":"100", "name":"Chips", "healthScore":99, "calories":300, "servingSize":"1 apple"}
+{"userId":"3xy","orderId":"100", "name":"Cookies", "healthScore":80, "calories": 200, "servingSize":"1 banana"}
+{"userId":"3xy","orderId":"232", "name":"Soda", "healthScore":30, "calories":500, "servingSize":"1 bag"}
+{"userId":"3xy","orderId":"232", "name":"Coke", "healthScore":80, "calories": 200, "servingSize":"1 banana"}
